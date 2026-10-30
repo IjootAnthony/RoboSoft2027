@@ -1,0 +1,13 @@
+Model check (rms tip error, % of L): simulation vs model
+  N=6   floor 0.290   B=6: 1.48 vs 1.53   B=8: 0.45 vs 0.47   B=10: 0.30 vs 0.30   sigma=0.05: 0.47 vs 0.51   sigma=0.2: 1.49 vs 1.69
+  N=12  floor 0.110   B=6: 1.20 vs 1.07   B=8: 0.29 vs 0.29   B=10: 0.13 vs 0.13   sigma=0.05: 0.28 vs 0.31   sigma=0.2: 1.06 vs 1.18
+  N=24  floor 0.061   B=6: 1.14 vs 0.75   B=8: 0.24 vs 0.20   B=10: 0.08 vs 0.08   sigma=0.05: 0.19 vs 0.22   sigma=0.2: 0.74 vs 0.84
+
+Bit budget: fewest bits with 95th-percentile tip error within 20 % of ideal
+  N   ideal p95 (% L)   bits   p95 at those bits
+  3        1.328           8   1.451
+  6        0.455          10   0.500
+  9        0.247          10   0.271
+  12       0.168          11   0.169
+  18       0.109          11   0.115
+  24       0.087          11   0.097

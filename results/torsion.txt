@@ -1,0 +1,4 @@
+GJ/EI  shapes  max twist (1/m)  2-axis median/95th   3-axis median/95th   (tip error, % of L)
+ 0.20      60      8.30         7.89 / 20.27         0.19 /  0.58
+ 0.67     400      2.32         1.92 /  6.10         0.10 /  0.17
+ 2.00      60      0.77         0.79 /  2.09         0.08 /  0.10

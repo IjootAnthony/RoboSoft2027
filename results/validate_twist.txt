@@ -1,0 +1,4 @@
+Final time of simulation is :  2.999999999928719
+max |u3| shooting 1.064 1/m, PyElastica 1.050 1/m; rms difference 0.002 1/m; total twist -1.64 vs -1.58 deg
+Final time of simulation is :  2.999999999928719
+max |u3| shooting 1.417 1/m, PyElastica 1.409 1/m; rms difference 0.002 1/m; total twist -4.72 vs -4.65 deg

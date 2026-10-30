@@ -1,0 +1,6 @@
+Final time of simulation is :  2.999999999928719
+shooting tip [247.89   0.   -30.3 ] mm   PyElastica tip [247.9    0.   -30.38] mm   difference 0.09 mm (0.04 % of L), residual speed 1.4e-05 m/s, 44 s
+Final time of simulation is :  2.999999999928719
+shooting tip [201.99 109.84  64.93] mm   PyElastica tip [202.84 108.5   64.37] mm   difference 1.68 mm (0.67 % of L), residual speed 1.5e-04 m/s, 42 s
+Final time of simulation is :  2.999999999928719
+shooting tip [191.65 139.89 -18.  ] mm   PyElastica tip [192.42 139.01 -17.87] mm   difference 1.18 mm (0.47 % of L), residual speed 9.3e-05 m/s, 42 s

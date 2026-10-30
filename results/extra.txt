@@ -1,0 +1,10 @@
+Gauge length (3-axis, per segment, ideal): median / 95th pct tip error, % of L
+  N=6   0.25/ 0.45  0.25/ 0.45  0.25/ 0.45  0.24/ 0.46  0.23/ 0.48
+  N=12  0.10/ 0.17  0.10/ 0.17  0.10/ 0.17  0.09/ 0.18    n/a     
+  g = 2, 5, 10, 20, 27.8 mm
+
+Load cases, N=12 per segment, ideal: median / 95th pct (% of L)
+  2-axis  no tip load 1.79/6.20   tip load 1.98/5.95
+  3-axis  no tip load 0.10/0.16   tip load 0.10/0.18
+
+Example shape 24: bending-only tip error 5.31 % (13.3 mm), three-axis 0.143 % (0.36 mm), tip load 0.00 N

@@ -1,0 +1,7 @@
+PyElastica mesh refinement for the 3-D actuation case (validate_elastica.py
+CASES[1], elastica_tip with n_elem and dt as listed; runs made on 30 Oct 2026
+with the earlier defaults n_elem=60, dt=2e-5, then n_elem=120 and 240):
+  n_elem  dt      tip difference to the shooting solver
+  60      2e-5    6.52 mm
+  120     1e-5    3.25 mm
+  240     5e-6    1.68 mm
